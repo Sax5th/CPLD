@@ -1,0 +1,1832 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 1 1
+Title "Xilinx XC9536XL Evaluation Board"
+Date "25 aug 2011"
+Rev "1.0"
+Comp "W.A. Smith"
+Comment1 "18 February 2011"
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Notes 13750 3800 0    60   ~ 0
+0V
+Text Notes 13750 3600 0    60   ~ 0
+3.3V
+Text Notes 13700 3200 0    60   ~ 0
+Power In
+Wire Notes Line
+	12800 3050 14300 3050
+Wire Notes Line
+	12800 3050 12800 4150
+Wire Notes Line
+	12800 4150 14300 4150
+Wire Notes Line
+	14300 4150 14300 3050
+Wire Notes Line
+	9800 8150 7600 8150
+Wire Notes Line
+	9800 8150 9800 10050
+Wire Notes Line
+	9800 10050 7600 10050
+Wire Notes Line
+	7600 10050 7600 8150
+Connection ~ 13250 3750
+Connection ~ 13250 3550
+Wire Wire Line
+	9550 9700 9550 9600
+Wire Wire Line
+	13550 5500 13550 5750
+Wire Wire Line
+	13550 5750 12850 5750
+Wire Wire Line
+	8800 6150 8250 6150
+Wire Wire Line
+	8800 6050 8250 6050
+Wire Wire Line
+	8800 5950 8250 5950
+Wire Wire Line
+	8800 5850 8250 5850
+Wire Wire Line
+	8800 5750 8250 5750
+Wire Wire Line
+	8250 5650 8800 5650
+Wire Wire Line
+	8250 5550 8800 5550
+Wire Wire Line
+	8250 5450 8800 5450
+Wire Wire Line
+	8250 5350 8800 5350
+Wire Wire Line
+	8250 5250 8800 5250
+Wire Wire Line
+	8250 5150 8800 5150
+Connection ~ 9550 9000
+Wire Wire Line
+	11100 6050 11600 6050
+Wire Wire Line
+	11100 5950 11600 5950
+Wire Wire Line
+	11100 5850 11600 5850
+Wire Wire Line
+	11100 5750 11600 5750
+Wire Wire Line
+	11100 5650 11600 5650
+Wire Wire Line
+	11100 5550 11600 5550
+Wire Wire Line
+	11100 5450 11600 5450
+Wire Wire Line
+	11100 5350 11600 5350
+Wire Wire Line
+	11100 5250 11600 5250
+Wire Wire Line
+	11100 5150 11600 5150
+Wire Wire Line
+	11100 5050 11600 5050
+Wire Wire Line
+	11100 4950 11600 4950
+Wire Wire Line
+	11100 4850 11600 4850
+Wire Wire Line
+	11100 4750 11600 4750
+Wire Wire Line
+	11100 4650 11600 4650
+Wire Wire Line
+	11100 4550 11600 4550
+Wire Wire Line
+	7550 4100 7550 4000
+Wire Wire Line
+	7550 4000 7650 4000
+Wire Wire Line
+	9150 3500 9150 4000
+Wire Wire Line
+	9150 4000 9000 4000
+Wire Wire Line
+	8250 4600 8250 4650
+Wire Wire Line
+	8250 4650 8800 4650
+Connection ~ 7200 9700
+Connection ~ 7200 9600
+Connection ~ 7200 9500
+Connection ~ 7200 9400
+Connection ~ 7200 9300
+Connection ~ 7200 9200
+Connection ~ 7200 9100
+Wire Wire Line
+	7050 9100 7200 9100
+Wire Wire Line
+	5100 8500 5100 8850
+Wire Wire Line
+	5100 8850 5350 8850
+Connection ~ 6050 9600
+Wire Wire Line
+	6050 8850 6050 9600
+Connection ~ 5850 9400
+Wire Wire Line
+	5850 8850 5850 9400
+Connection ~ 5650 9200
+Wire Wire Line
+	5650 8850 5650 9200
+Connection ~ 5450 9000
+Wire Wire Line
+	5450 8850 5450 9000
+Connection ~ 9550 9600
+Connection ~ 9550 9500
+Connection ~ 9550 9400
+Connection ~ 9550 9300
+Wire Wire Line
+	9550 9600 9400 9600
+Wire Wire Line
+	9550 9500 9400 9500
+Wire Wire Line
+	9550 9400 9400 9400
+Wire Wire Line
+	9550 9200 9400 9200
+Wire Wire Line
+	9550 9100 9400 9100
+Wire Wire Line
+	9550 9700 9400 9700
+Wire Wire Line
+	8800 9600 9000 9600
+Wire Wire Line
+	8800 9400 9000 9400
+Wire Wire Line
+	8800 9200 9000 9200
+Wire Wire Line
+	8800 9000 9000 9000
+Wire Wire Line
+	13250 7550 13700 7550
+Wire Wire Line
+	1800 3450 1800 3400
+Wire Wire Line
+	1950 3850 1950 3650
+Wire Wire Line
+	1950 3650 1800 3650
+Wire Wire Line
+	1800 3850 1800 3950
+Connection ~ 7250 6000
+Wire Wire Line
+	7250 5900 7250 6000
+Wire Wire Line
+	6800 4950 6800 5700
+Wire Wire Line
+	6800 5700 7250 5700
+Wire Wire Line
+	6900 4750 6900 5500
+Wire Wire Line
+	6900 5500 7250 5500
+Connection ~ 7000 4550
+Wire Wire Line
+	7000 4550 7000 5300
+Wire Wire Line
+	7000 5300 7250 5300
+Connection ~ 7100 4350
+Wire Wire Line
+	7100 4350 7100 5100
+Wire Wire Line
+	7100 5100 7250 5100
+Wire Wire Line
+	3750 2900 3750 2650
+Wire Wire Line
+	8100 7450 7750 7450
+Wire Wire Line
+	6950 7650 6600 7650
+Wire Wire Line
+	8100 7550 7750 7550
+Wire Wire Line
+	8800 5050 7800 5050
+Wire Wire Line
+	7800 5050 7800 4550
+Wire Wire Line
+	7800 4550 7000 4550
+Wire Wire Line
+	8450 4550 8800 4550
+Connection ~ 3250 2900
+Wire Wire Line
+	2400 3400 2400 3700
+Connection ~ 3850 6300
+Wire Wire Line
+	3850 6550 3850 6300
+Wire Wire Line
+	3850 6050 3750 6050
+Wire Wire Line
+	3600 6050 3500 6050
+Wire Wire Line
+	13600 8700 13950 8700
+Wire Wire Line
+	13250 3550 13000 3550
+Wire Wire Line
+	13000 3550 13000 3350
+Connection ~ 11050 3500
+Connection ~ 10350 3500
+Wire Wire Line
+	9950 7450 9950 7350
+Connection ~ 11950 9000
+Connection ~ 11950 8900
+Connection ~ 11950 8800
+Connection ~ 11950 8700
+Connection ~ 11950 8600
+Connection ~ 11950 8500
+Wire Wire Line
+	11950 9200 11950 9000
+Wire Wire Line
+	12750 8800 13100 8800
+Wire Wire Line
+	12750 8600 13100 8600
+Wire Wire Line
+	11100 6950 11450 6950
+Wire Wire Line
+	11100 6750 11450 6750
+Wire Wire Line
+	11100 6650 11450 6650
+Wire Wire Line
+	11100 6850 11450 6850
+Wire Wire Line
+	12750 8500 13100 8500
+Wire Wire Line
+	12750 8700 13100 8700
+Wire Wire Line
+	13050 7850 12750 7850
+Connection ~ 12750 7850
+Wire Wire Line
+	9850 7350 9950 7350
+Connection ~ 9950 7350
+Wire Wire Line
+	10000 4150 10000 3500
+Connection ~ 10700 3500
+Wire Wire Line
+	10000 3500 10350 3500
+Wire Wire Line
+	11750 3500 11750 3350
+Connection ~ 11450 3500
+Wire Wire Line
+	9900 4150 10000 4150
+Connection ~ 10000 4150
+Wire Wire Line
+	13000 3950 13000 3750
+Wire Wire Line
+	13000 3750 13250 3750
+Wire Wire Line
+	13600 8800 13950 8800
+Wire Wire Line
+	3500 6050 3500 6300
+Connection ~ 3500 6300
+Wire Wire Line
+	3500 6950 3500 7050
+Wire Wire Line
+	3850 7050 3850 7000
+Wire Wire Line
+	3850 7000 4050 7000
+Wire Wire Line
+	4050 7000 4050 7250
+Wire Wire Line
+	2100 2900 2400 2900
+Wire Wire Line
+	2100 2900 2100 2950
+Connection ~ 2400 2900
+Wire Wire Line
+	2100 3350 2100 3400
+Connection ~ 2400 3700
+Wire Wire Line
+	8100 4250 8100 4750
+Wire Wire Line
+	8100 4750 8800 4750
+Wire Wire Line
+	6550 4350 7100 4350
+Wire Wire Line
+	8000 4350 8000 4850
+Wire Wire Line
+	8000 4850 8800 4850
+Wire Wire Line
+	7900 4450 7900 4950
+Wire Wire Line
+	7900 4950 8800 4950
+Wire Wire Line
+	6950 7450 6600 7450
+Wire Wire Line
+	6950 7550 6600 7550
+Wire Wire Line
+	7750 7650 8100 7650
+Wire Wire Line
+	8100 7650 8100 7750
+Wire Wire Line
+	7250 5000 7150 5000
+Wire Wire Line
+	7150 5000 7150 4250
+Wire Wire Line
+	7250 5200 7050 5200
+Wire Wire Line
+	7050 5200 7050 4450
+Connection ~ 7050 4450
+Wire Wire Line
+	7250 5400 6950 5400
+Wire Wire Line
+	6950 5400 6950 4650
+Wire Wire Line
+	7250 5600 6850 5600
+Wire Wire Line
+	6850 5600 6850 4850
+Wire Wire Line
+	7250 5800 6550 5800
+Wire Wire Line
+	7250 4900 7250 4700
+Wire Wire Line
+	7250 4700 7600 4700
+Wire Wire Line
+	1800 4450 1800 4550
+Wire Wire Line
+	1800 3750 1900 3750
+Wire Wire Line
+	1900 3750 1900 3950
+Wire Wire Line
+	2000 3700 2000 3550
+Wire Wire Line
+	2000 3550 1800 3550
+Wire Wire Line
+	12750 8400 12750 7850
+Wire Wire Line
+	8800 9100 9000 9100
+Wire Wire Line
+	8800 9300 9000 9300
+Wire Wire Line
+	8800 9500 9000 9500
+Wire Wire Line
+	8800 9700 9000 9700
+Wire Wire Line
+	9550 9000 9400 9000
+Connection ~ 9550 9100
+Connection ~ 9550 9200
+Wire Wire Line
+	5200 9000 5450 9000
+Wire Wire Line
+	5200 9100 5550 9100
+Wire Wire Line
+	5200 9200 5650 9200
+Wire Wire Line
+	5200 9300 5750 9300
+Wire Wire Line
+	5200 9400 5850 9400
+Wire Wire Line
+	6350 9500 5950 9500
+Wire Wire Line
+	6350 9600 6050 9600
+Wire Wire Line
+	6350 9700 6150 9700
+Wire Wire Line
+	5550 8850 5550 9100
+Connection ~ 5550 9100
+Wire Wire Line
+	5750 8850 5750 9300
+Connection ~ 5750 9300
+Wire Wire Line
+	5950 8850 5950 9500
+Connection ~ 5950 9500
+Wire Wire Line
+	6150 8850 6150 9700
+Connection ~ 6150 9700
+Wire Wire Line
+	7050 9000 7200 9000
+Wire Wire Line
+	7200 9000 7200 9100
+Wire Wire Line
+	7200 9200 7050 9200
+Wire Wire Line
+	7200 9300 7050 9300
+Wire Wire Line
+	7200 9400 7050 9400
+Wire Wire Line
+	7200 9500 7050 9500
+Wire Wire Line
+	7200 9600 7050 9600
+Wire Wire Line
+	7050 9700 7200 9700
+Wire Wire Line
+	8250 4000 8250 4100
+Connection ~ 8250 4000
+Wire Wire Line
+	8150 4000 8250 4000
+Wire Wire Line
+	4700 9000 4200 9000
+Wire Wire Line
+	4700 9100 4200 9100
+Wire Wire Line
+	4700 9200 4200 9200
+Wire Wire Line
+	4700 9300 4200 9300
+Wire Wire Line
+	4700 9400 4200 9400
+Wire Wire Line
+	4700 9500 4200 9500
+Wire Wire Line
+	4700 9600 4200 9600
+Wire Wire Line
+	4700 9700 4200 9700
+Wire Wire Line
+	8300 9000 7800 9000
+Wire Wire Line
+	8300 9100 7800 9100
+Wire Wire Line
+	8300 9200 7800 9200
+Wire Wire Line
+	8300 9300 7800 9300
+Wire Wire Line
+	8300 9400 7800 9400
+Wire Wire Line
+	8300 9500 7800 9500
+Wire Wire Line
+	8300 9600 7800 9600
+Wire Wire Line
+	8300 9700 7800 9700
+Wire Wire Line
+	9550 9300 9400 9300
+Wire Wire Line
+	11100 6150 11600 6150
+Wire Wire Line
+	12850 5550 13350 5550
+Wire Wire Line
+	12850 5650 13350 5650
+Wire Wire Line
+	12850 5850 13350 5850
+Wire Wire Line
+	12850 6050 13350 6050
+Wire Wire Line
+	12850 6150 13350 6150
+Wire Wire Line
+	12850 6250 13350 6250
+Wire Wire Line
+	12850 5950 13550 5950
+Wire Wire Line
+	13550 5950 13550 6350
+Wire Notes Line
+	11700 7150 11700 9350
+Wire Notes Line
+	11700 7150 14300 7150
+Wire Notes Line
+	14300 7150 14300 9350
+Wire Notes Line
+	14300 9350 11700 9350
+Wire Notes Line
+	4000 10050 7400 10050
+Wire Notes Line
+	4000 10050 4000 8150
+Wire Notes Line
+	4000 8150 7400 8150
+Wire Notes Line
+	7400 8150 7400 10050
+Wire Notes Line
+	5600 7050 5600 8050
+Wire Notes Line
+	5600 7050 9000 7050
+Wire Notes Line
+	9000 7050 9000 8050
+Wire Notes Line
+	9000 8050 5600 8050
+Text Notes 7750 8300 0    60   ~ 0
+LEDs
+Text Notes 4150 8300 0    60   ~ 0
+Switches
+Text Notes 6900 7200 0    60   ~ 0
+Atmel AVR ISP Header
+Text Notes 11800 7300 0    60   ~ 0
+Xilinx CPLD JTAG
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R24
+U 1 1 4D64D9B2
+P 9550 8750
+F 0 "R24" V 9630 8750 50  0000 C CNN
+F 1 "0R" V 9550 8750 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 9550 8750 50  0001 C CNN
+F 3 "" H 9550 8750 50  0001 C CNN
+	1    9550 8750
+	1    0    0    -1  
+$EndComp
+Text Label 8250 6150 0    60   ~ 0
+O6
+Text Label 11500 6150 0    60   ~ 0
+O5
+Text Label 8250 6050 0    60   ~ 0
+O4
+Text Label 8250 5950 0    60   ~ 0
+O3
+Text Label 8250 5750 0    60   ~ 0
+O2
+Text Label 8250 5850 0    60   ~ 0
+O1
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:GND #PWR013
+U 1 1 4D64C97A
+P 13550 6350
+F 0 "#PWR013" H 13550 6350 30  0001 C CNN
+F 1 "GND" H 13550 6280 30  0001 C CNN
+F 2 "" H 13550 6350 50  0001 C CNN
+F 3 "" H 13550 6350 50  0001 C CNN
+	1    13550 6350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:+3.3V #PWR012
+U 1 1 4D64C96C
+P 13550 5500
+F 0 "#PWR012" H 13550 5460 30  0001 C CNN
+F 1 "+3.3V" H 13550 5610 30  0000 C CNN
+F 2 "" H 13550 5500 50  0001 C CNN
+F 3 "" H 13550 5500 50  0001 C CNN
+	1    13550 5500
+	1    0    0    -1  
+$EndComp
+Text Label 13250 6250 0    60   ~ 0
+O6
+Text Label 13250 6150 0    60   ~ 0
+O5
+Text Label 13250 6050 0    60   ~ 0
+O4
+Text Label 13250 5850 0    60   ~ 0
+O3
+Text Label 13250 5650 0    60   ~ 0
+O2
+Text Label 13250 5550 0    60   ~ 0
+O1
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:CONN_8 P8
+U 1 1 4D64C888
+P 12500 5900
+F 0 "P8" H 12500 6350 60  0000 C CNN
+F 1 "CONN_8" V 12550 5900 60  0001 C CNN
+F 2 "Connector_PinSocket_2.00mm:PinSocket_1x08_P2.00mm_Vertical_SMD_Pin1Left" H 12500 5900 50  0001 C CNN
+F 3 "" H 12500 5900 50  0001 C CNN
+	1    12500 5900
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:CONN_6 P7
+U 1 1 4D64C434
+P 7900 5400
+F 0 "P7" H 7900 5050 60  0000 C CNN
+F 1 "CONN_6" V 7950 5400 60  0001 C CNN
+F 2 "Connector_PinSocket_2.00mm:PinSocket_1x06_P2.00mm_Vertical_SMD_Pin1Left" H 7900 5400 50  0001 C CNN
+F 3 "" H 7900 5400 50  0001 C CNN
+	1    7900 5400
+	-1   0    0    -1  
+$EndComp
+Text Label 7800 9700 0    60   ~ 0
+L8
+Text Label 7800 9600 0    60   ~ 0
+L7
+Text Label 7800 9500 0    60   ~ 0
+L6
+Text Label 7800 9400 0    60   ~ 0
+L5
+Text Label 7800 9300 0    60   ~ 0
+L4
+Text Label 7800 9200 0    60   ~ 0
+L3
+Text Label 7800 9100 0    60   ~ 0
+L2
+Text Label 7800 9000 0    60   ~ 0
+L1
+Text Label 4200 9700 0    60   ~ 0
+S8
+Text Label 4200 9600 0    60   ~ 0
+S7
+Text Label 4200 9500 0    60   ~ 0
+S6
+Text Label 4200 9400 0    60   ~ 0
+S5
+Text Label 4200 9300 0    60   ~ 0
+S4
+Text Label 4200 9200 0    60   ~ 0
+S3
+Text Label 4200 9100 0    60   ~ 0
+S2
+Text Label 4200 9000 0    60   ~ 0
+S1
+Text Label 11500 6050 0    60   ~ 0
+L8
+Text Label 11500 5950 0    60   ~ 0
+L7
+Text Label 11500 5850 0    60   ~ 0
+L6
+Text Label 11500 5750 0    60   ~ 0
+L5
+Text Label 11500 5650 0    60   ~ 0
+L4
+Text Label 11500 5550 0    60   ~ 0
+L3
+Text Label 11500 5450 0    60   ~ 0
+L2
+Text Label 11500 5350 0    60   ~ 0
+L1
+Text Label 11500 5250 0    60   ~ 0
+S8
+Text Label 11500 5150 0    60   ~ 0
+S7
+Text Label 11500 5050 0    60   ~ 0
+S6
+Text Label 11500 4950 0    60   ~ 0
+S5
+Text Label 11500 4750 0    60   ~ 0
+S4
+Text Label 11500 4850 0    60   ~ 0
+S3
+Text Label 11500 4550 0    60   ~ 0
+S2
+Text Label 11500 4650 0    60   ~ 0
+S1
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:GND #PWR011
+U 1 1 4D63E15C
+P 7550 4100
+F 0 "#PWR011" H 7550 4100 30  0001 C CNN
+F 1 "GND" H 7550 4030 30  0001 C CNN
+F 2 "" H 7550 4100 50  0001 C CNN
+F 3 "" H 7550 4100 50  0001 C CNN
+	1    7550 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R14
+U 1 1 4D63E142
+P 7900 4000
+F 0 "R14" V 7980 4000 50  0000 C CNN
+F 1 "4k7" V 7900 4000 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 7900 4000 50  0001 C CNN
+F 3 "" H 7900 4000 50  0001 C CNN
+	1    7900 4000
+	0    1    1    0   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:+3.3V #PWR015
+U 1 1 4D63E130
+P 9150 3500
+F 0 "#PWR015" H 9150 3460 30  0001 C CNN
+F 1 "+3.3V" H 9150 3610 30  0000 C CNN
+F 2 "" H 9150 3500 50  0001 C CNN
+F 3 "" H 9150 3500 50  0001 C CNN
+	1    9150 3500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R15
+U 1 1 4D63E0EF
+P 8250 4350
+F 0 "R15" V 8330 4350 50  0000 C CNN
+F 1 "4k7" V 8250 4350 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 8250 4350 50  0001 C CNN
+F 3 "" H 8250 4350 50  0001 C CNN
+	1    8250 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:GND #PWR09
+U 1 1 4D63E0E1
+P 7200 9800
+F 0 "#PWR09" H 7200 9800 30  0001 C CNN
+F 1 "GND" H 7200 9730 30  0001 C CNN
+F 2 "" H 7200 9800 50  0001 C CNN
+F 3 "" H 7200 9800 50  0001 C CNN
+	1    7200 9800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:SW_PUSH SW1
+U 1 1 4D63E0B5
+P 8700 4000
+F 0 "SW1" H 8850 4110 50  0000 C CNN
+F 1 "SW_PUSH" H 8700 3920 50  0001 C CNN
+F 2 "Button_Switch_SMD:Panasonic_EVQPUJ_EVQPUA" H 8700 4000 50  0001 C CNN
+F 3 "" H 8700 4000 50  0001 C CNN
+	1    8700 4000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:+3.3V #PWR05
+U 1 1 4D63DF91
+P 5100 8500
+F 0 "#PWR05" H 5100 8460 30  0001 C CNN
+F 1 "+3.3V" H 5100 8610 30  0000 C CNN
+F 2 "" H 5100 8500 50  0001 C CNN
+F 3 "" H 5100 8500 50  0001 C CNN
+	1    5100 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:SW_DIP_8 SW2
+U 1 1 4D63DEF7
+P 6350 9000
+F 0 "SW2" H 6625 9100 60  0000 C CNN
+F 1 "SW_DIP_8" H 6700 8175 60  0001 C CNN
+F 2 "Button_Switch_SMD:SW_DIP_SPSTx08_Slide_6.7x21.88mm_W8.61mm_P2.54mm_LowProfile" H 6350 9000 50  0001 C CNN
+F 3 "" H 6350 9000 50  0001 C CNN
+	1    6350 9000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:RR8 RR1
+U 1 1 4D63DA96
+P 5800 8500
+F 0 "RR1" V 5950 8850 70  0000 C CNN
+F 1 "4k7" V 5830 8500 70  0000 C CNN
+F 2 "Connector_PinSocket_2.00mm:PinSocket_1x09_P2.00mm_Vertical_SMD_Pin1Left" H 5800 8500 50  0001 C CNN
+F 3 "" H 5800 8500 50  0001 C CNN
+	1    5800 8500
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R?
+U 1 1 4D63DA03
+P 4950 9700
+AR Path="/4D63D9F3" Ref="R?"  Part="1" 
+AR Path="/4D63DA03" Ref="R23"  Part="1" 
+F 0 "R23" V 4900 9400 50  0000 C CNN
+F 1 "4k7" V 4950 9700 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 4950 9700 50  0001 C CNN
+F 3 "" H 4950 9700 50  0001 C CNN
+	1    4950 9700
+	0    1    1    0   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R?
+U 1 1 4D63DA02
+P 4950 9600
+AR Path="/4D63D9F3" Ref="R?"  Part="1" 
+AR Path="/4D63DA02" Ref="R22"  Part="1" 
+F 0 "R22" V 4900 9300 50  0000 C CNN
+F 1 "4k7" V 4950 9600 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 4950 9600 50  0001 C CNN
+F 3 "" H 4950 9600 50  0001 C CNN
+	1    4950 9600
+	0    1    1    0   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R?
+U 1 1 4D63DA01
+P 4950 9500
+AR Path="/4D63D9F3" Ref="R?"  Part="1" 
+AR Path="/4D63DA01" Ref="R21"  Part="1" 
+F 0 "R21" V 4900 9200 50  0000 C CNN
+F 1 "4k7" V 4950 9500 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 4950 9500 50  0001 C CNN
+F 3 "" H 4950 9500 50  0001 C CNN
+	1    4950 9500
+	0    1    1    0   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R?
+U 1 1 4D63D9FD
+P 4950 9300
+AR Path="/4D63D9F3" Ref="R?"  Part="1" 
+AR Path="/4D63D9FD" Ref="R19"  Part="1" 
+F 0 "R19" V 4900 9000 50  0000 C CNN
+F 1 "4k7" V 4950 9300 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 4950 9300 50  0001 C CNN
+F 3 "" H 4950 9300 50  0001 C CNN
+	1    4950 9300
+	0    1    1    0   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R?
+U 1 1 4D63D9FC
+P 4950 9400
+AR Path="/4D63D9F3" Ref="R?"  Part="1" 
+AR Path="/4D63D9FC" Ref="R20"  Part="1" 
+F 0 "R20" V 4900 9100 50  0000 C CNN
+F 1 "4k7" V 4950 9400 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 4950 9400 50  0001 C CNN
+F 3 "" H 4950 9400 50  0001 C CNN
+	1    4950 9400
+	0    1    1    0   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R?
+U 1 1 4D63D9FA
+P 4950 9200
+AR Path="/4D63D9F3" Ref="R?"  Part="1" 
+AR Path="/4D63D9FA" Ref="R18"  Part="1" 
+F 0 "R18" V 4900 8900 50  0000 C CNN
+F 1 "4k7" V 4950 9200 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 4950 9200 50  0001 C CNN
+F 3 "" H 4950 9200 50  0001 C CNN
+	1    4950 9200
+	0    1    1    0   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R17
+U 1 1 4D63D9F3
+P 4950 9100
+F 0 "R17" V 4900 8800 50  0000 C CNN
+F 1 "4k7" V 4950 9100 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 4950 9100 50  0001 C CNN
+F 3 "" H 4950 9100 50  0001 C CNN
+	1    4950 9100
+	0    1    1    0   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R16
+U 1 1 4D63D9E7
+P 4950 9000
+F 0 "R16" V 4900 8700 50  0000 C CNN
+F 1 "4k7" V 4950 9000 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 4950 9000 50  0001 C CNN
+F 3 "" H 4950 9000 50  0001 C CNN
+	1    4950 9000
+	0    1    1    0   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:XC9536PC44 U1
+U 1 1 4D5E34BC
+P 9950 5750
+F 0 "U1" H 10450 7150 60  0000 C CNN
+F 1 "XC9536XLPC44" H 10500 4301 60  0000 C CNN
+F 2 "Package_LCC:PLCC-44_SMD-Socket" H 9950 5750 50  0001 C CNN
+F 3 "" H 9950 5750 50  0001 C CNN
+	1    9950 5750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:+3.3V #PWR016
+U 1 1 4D63D641
+P 9550 8500
+F 0 "#PWR016" H 9550 8460 30  0001 C CNN
+F 1 "+3.3V" H 9550 8610 30  0000 C CNN
+F 2 "" H 9550 8500 50  0001 C CNN
+F 3 "" H 9550 8500 50  0001 C CNN
+	1    9550 8500
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:LED D?
+U 1 1 4D63D604
+P 9200 9700
+AR Path="/4D63D5E2" Ref="D?"  Part="1" 
+AR Path="/4D63D604" Ref="D8"  Part="1" 
+F 0 "D8" H 9400 9650 50  0000 C CNN
+F 1 "LED" H 8750 9600 50  0001 C CNN
+F 2 "LED_SMD:LED_1206_3216Metric" H 9200 9700 50  0001 C CNN
+F 3 "" H 9200 9700 50  0001 C CNN
+	1    9200 9700
+	-1   0    0    1   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:LED D?
+U 1 1 4D63D602
+P 9200 9600
+AR Path="/4D63D5E2" Ref="D?"  Part="1" 
+AR Path="/4D63D602" Ref="D7"  Part="1" 
+F 0 "D7" H 9400 9550 50  0000 C CNN
+F 1 "LED" H 8750 9500 50  0001 C CNN
+F 2 "LED_SMD:LED_1206_3216Metric" H 9200 9600 50  0001 C CNN
+F 3 "" H 9200 9600 50  0001 C CNN
+	1    9200 9600
+	-1   0    0    1   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:LED D?
+U 1 1 4D63D600
+P 9200 9500
+AR Path="/4D63D5E2" Ref="D?"  Part="1" 
+AR Path="/4D63D600" Ref="D6"  Part="1" 
+F 0 "D6" H 9400 9450 50  0000 C CNN
+F 1 "LED" H 8750 9400 50  0001 C CNN
+F 2 "LED_SMD:LED_1206_3216Metric" H 9200 9500 50  0001 C CNN
+F 3 "" H 9200 9500 50  0001 C CNN
+	1    9200 9500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:LED D?
+U 1 1 4D63D5FE
+P 9200 9400
+AR Path="/4D63D5E2" Ref="D?"  Part="1" 
+AR Path="/4D63D5FE" Ref="D5"  Part="1" 
+F 0 "D5" H 9400 9350 50  0000 C CNN
+F 1 "LED" H 8750 9300 50  0001 C CNN
+F 2 "LED_SMD:LED_1206_3216Metric" H 9200 9400 50  0001 C CNN
+F 3 "" H 9200 9400 50  0001 C CNN
+	1    9200 9400
+	-1   0    0    1   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:LED D?
+U 1 1 4D63D5FC
+P 9200 9300
+AR Path="/4D63D5E2" Ref="D?"  Part="1" 
+AR Path="/4D63D5FC" Ref="D4"  Part="1" 
+F 0 "D4" H 9400 9250 50  0000 C CNN
+F 1 "LED" H 8750 9200 50  0001 C CNN
+F 2 "LED_SMD:LED_1206_3216Metric" H 9200 9300 50  0001 C CNN
+F 3 "" H 9200 9300 50  0001 C CNN
+	1    9200 9300
+	-1   0    0    1   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:LED D?
+U 1 1 4D63D5F7
+P 9200 9200
+AR Path="/4D63D5E2" Ref="D?"  Part="1" 
+AR Path="/4D63D5F7" Ref="D3"  Part="1" 
+F 0 "D3" H 9400 9150 50  0000 C CNN
+F 1 "LED" H 9200 9100 50  0001 C CNN
+F 2 "LED_SMD:LED_1206_3216Metric" H 9200 9200 50  0001 C CNN
+F 3 "" H 9200 9200 50  0001 C CNN
+	1    9200 9200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:LED D?
+U 1 1 4D63D5F1
+P 9200 9000
+AR Path="/4D63D5E2" Ref="D?"  Part="1" 
+AR Path="/4D63D5F1" Ref="D1"  Part="1" 
+F 0 "D1" H 9400 8950 50  0000 C CNN
+F 1 "LED" H 9200 8900 50  0001 C CNN
+F 2 "LED_SMD:LED_1206_3216Metric" H 9200 9000 50  0001 C CNN
+F 3 "" H 9200 9000 50  0001 C CNN
+	1    9200 9000
+	-1   0    0    1   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:LED D2
+U 1 1 4D63D5E2
+P 9200 9100
+F 0 "D2" H 9400 9050 50  0000 C CNN
+F 1 "LED" H 9200 9000 50  0001 C CNN
+F 2 "LED_SMD:LED_1206_3216Metric" H 9200 9100 50  0001 C CNN
+F 3 "" H 9200 9100 50  0001 C CNN
+	1    9200 9100
+	-1   0    0    1   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R?
+U 1 1 4D63D3FD
+P 8550 9700
+AR Path="/4D63D3E5" Ref="R?"  Part="1" 
+AR Path="/4D63D3FD" Ref="R8"  Part="1" 
+F 0 "R8" V 8500 9400 50  0000 C CNN
+F 1 "330R" V 8550 9700 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 8550 9700 50  0001 C CNN
+F 3 "" H 8550 9700 50  0001 C CNN
+	1    8550 9700
+	0    1    1    0   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R?
+U 1 1 4D63D3FB
+P 8550 9600
+AR Path="/4D63D3E5" Ref="R?"  Part="1" 
+AR Path="/4D63D3FB" Ref="R7"  Part="1" 
+F 0 "R7" V 8500 9300 50  0000 C CNN
+F 1 "330R" V 8550 9600 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 8550 9600 50  0001 C CNN
+F 3 "" H 8550 9600 50  0001 C CNN
+	1    8550 9600
+	0    1    1    0   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R?
+U 1 1 4D63D3F9
+P 8550 9500
+AR Path="/4D63D3E5" Ref="R?"  Part="1" 
+AR Path="/4D63D3F9" Ref="R6"  Part="1" 
+F 0 "R6" V 8500 9200 50  0000 C CNN
+F 1 "330R" V 8550 9500 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 8550 9500 50  0001 C CNN
+F 3 "" H 8550 9500 50  0001 C CNN
+	1    8550 9500
+	0    1    1    0   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R?
+U 1 1 4D63D3F8
+P 8550 9400
+AR Path="/4D63D3E5" Ref="R?"  Part="1" 
+AR Path="/4D63D3F8" Ref="R5"  Part="1" 
+F 0 "R5" V 8500 9100 50  0000 C CNN
+F 1 "330R" V 8550 9400 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 8550 9400 50  0001 C CNN
+F 3 "" H 8550 9400 50  0001 C CNN
+	1    8550 9400
+	0    1    1    0   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R?
+U 1 1 4D63D3F5
+P 8550 9200
+AR Path="/4D63D3E5" Ref="R?"  Part="1" 
+AR Path="/4D63D3F5" Ref="R3"  Part="1" 
+F 0 "R3" V 8500 8900 50  0000 C CNN
+F 1 "330R" V 8550 9200 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 8550 9200 50  0001 C CNN
+F 3 "" H 8550 9200 50  0001 C CNN
+	1    8550 9200
+	0    1    1    0   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R?
+U 1 1 4D63D3F3
+P 8550 9300
+AR Path="/4D63D3E5" Ref="R?"  Part="1" 
+AR Path="/4D63D3F3" Ref="R4"  Part="1" 
+F 0 "R4" V 8500 9000 50  0000 C CNN
+F 1 "330R" V 8550 9300 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 8550 9300 50  0001 C CNN
+F 3 "" H 8550 9300 50  0001 C CNN
+	1    8550 9300
+	0    1    1    0   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R?
+U 1 1 4D63D3EF
+P 8550 9000
+AR Path="/4D63D3E5" Ref="R?"  Part="1" 
+AR Path="/4D63D3EF" Ref="R1"  Part="1" 
+F 0 "R1" V 8500 8700 50  0000 C CNN
+F 1 "330R" V 8550 9000 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 8550 9000 50  0001 C CNN
+F 3 "" H 8550 9000 50  0001 C CNN
+	1    8550 9000
+	0    1    1    0   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R2
+U 1 1 4D63D3E5
+P 8550 9100
+F 0 "R2" V 8500 8800 50  0000 C CNN
+F 1 "330R" V 8550 9100 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 8550 9100 50  0001 C CNN
+F 3 "" H 8550 9100 50  0001 C CNN
+	1    8550 9100
+	0    1    1    0   
+$EndComp
+Text Label 13500 7550 0    60   ~ 0
+3V3P
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R11
+U 1 1 4D63CF7F
+P 13000 7550
+F 0 "R11" V 13080 7550 50  0000 C CNN
+F 1 "0R" V 13000 7550 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 13000 7550 50  0001 C CNN
+F 3 "" H 13000 7550 50  0001 C CNN
+	1    13000 7550
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:+3.3V #PWR01
+U 1 1 4D5EC67B
+P 1800 3400
+F 0 "#PWR01" H 1800 3360 30  0001 C CNN
+F 1 "+3.3V" H 1800 3510 30  0000 C CNN
+F 2 "" H 1800 3400 50  0001 C CNN
+F 3 "" H 1800 3400 50  0001 C CNN
+	1    1800 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:GND #PWR02
+U 1 1 4D5EC65E
+P 1800 3950
+F 0 "#PWR02" H 1800 3950 30  0001 C CNN
+F 1 "GND" H 1800 3880 30  0001 C CNN
+F 2 "" H 1800 3950 50  0001 C CNN
+F 3 "" H 1800 3950 50  0001 C CNN
+	1    1800 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:CONN_5 P4
+U 1 1 4D5EC61F
+P 1400 3650
+F 0 "P4" H 1400 3950 50  0000 C CNN
+F 1 "CONN_5" V 1450 3650 50  0001 C CNN
+F 2 "Connector_PinSocket_2.00mm:PinSocket_1x05_P2.00mm_Vertical" H 1400 3650 50  0001 C CNN
+F 3 "" H 1400 3650 50  0001 C CNN
+	1    1400 3650
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:GND #PWR03
+U 1 1 4D5EC604
+P 1800 4550
+F 0 "#PWR03" H 1800 4550 30  0001 C CNN
+F 1 "GND" H 1800 4480 30  0001 C CNN
+F 2 "" H 1800 4550 50  0001 C CNN
+F 3 "" H 1800 4550 50  0001 C CNN
+	1    1800 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:CONN_5 P5
+U 1 1 4D5EC5D9
+P 1400 4250
+F 0 "P5" H 1400 3950 50  0000 C CNN
+F 1 "CONN_5" V 1450 4250 50  0001 C CNN
+F 2 "Connector_PinSocket_2.00mm:PinSocket_1x05_P2.00mm_Vertical_SMD_Pin1Left" H 1400 4250 50  0001 C CNN
+F 3 "" H 1400 4250 50  0001 C CNN
+	1    1400 4250
+	-1   0    0    -1  
+$EndComp
+Text Label 7400 4700 0    60   ~ 0
+3V3P
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:GND #PWR010
+U 1 1 4D5EC53F
+P 7250 6150
+F 0 "#PWR010" H 7250 6150 30  0001 C CNN
+F 1 "GND" H 7250 6080 30  0001 C CNN
+F 2 "" H 7250 6150 50  0001 C CNN
+F 3 "" H 7250 6150 50  0001 C CNN
+	1    7250 6150
+	1    0    0    -1  
+$EndComp
+Text Label 6550 5800 0    60   ~ 0
+PD6
+Text Label 2200 4450 0    60   ~ 0
+PD6
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:CONN_12 P6
+U 1 1 4D5EC451
+P 7600 5450
+F 0 "P6" H 7600 4800 60  0000 C CNN
+F 1 "CONN_12" V 7650 5450 60  0001 C CNN
+F 2 "Connector_PinSocket_2.00mm:PinSocket_1x12_P2.00mm_Vertical_SMD_Pin1Left" H 7600 5450 50  0001 C CNN
+F 3 "" H 7600 5450 50  0001 C CNN
+	1    7600 5450
+	1    0    0    -1  
+$EndComp
+Text Label 2750 2900 0    60   ~ 0
+3V3P
+Text Label 8100 7450 0    60   ~ 0
+3V3P
+$Comp
+L power:PWR_FLAG #FLG01
+U 1 1 4D5EBE4A
+P 3250 2900
+F 0 "#FLG01" H 3250 3170 30  0001 C CNN
+F 1 "PWR_FLAG" H 3250 3130 30  0000 C CNN
+F 2 "" H 3250 2900 50  0001 C CNN
+F 3 "" H 3250 2900 50  0001 C CNN
+	1    3250 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R10
+U 1 1 4D5EBE04
+P 3500 2900
+F 0 "R10" V 3580 2900 50  0000 C CNN
+F 1 "0R" V 3500 2900 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 3500 2900 50  0001 C CNN
+F 3 "" H 3500 2900 50  0001 C CNN
+	1    3500 2900
+	0    1    1    0   
+$EndComp
+Text Label 6600 7650 0    60   ~ 0
+RESET
+Text Label 6600 7450 0    60   ~ 0
+MISO
+Text Label 8100 7550 0    60   ~ 0
+MOSI
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:GND #PWR014
+U 1 1 4D5EB276
+P 8100 7750
+F 0 "#PWR014" H 8100 7750 30  0001 C CNN
+F 1 "GND" H 8100 7680 30  0001 C CNN
+F 2 "" H 8100 7750 50  0001 C CNN
+F 3 "" H 8100 7750 50  0001 C CNN
+	1    8100 7750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:CONN_3X2 P3
+U 1 1 4D5EB226
+P 7350 7600
+F 0 "P3" H 7350 7850 50  0000 C CNN
+F 1 "CONN_3X2" V 7350 7650 40  0001 C CNN
+F 2 "Connector_PinSocket_2.00mm:PinSocket_1x06_P2.00mm_Vertical_SMD_Pin1Left" H 7350 7600 50  0001 C CNN
+F 3 "" H 7350 7600 50  0001 C CNN
+	1    7350 7600
+	1    0    0    -1  
+$EndComp
+Text Label 8450 4550 0    60   ~ 0
+RESET
+Text Label 6700 4450 0    60   ~ 0
+MOSI
+Text Label 6700 4350 0    60   ~ 0
+MISO
+Text Label 6700 4250 0    60   ~ 0
+SCK
+Text Label 2050 3700 0    60   ~ 0
+RESET
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:+3.3V #PWR08
+U 1 1 4D5EAEAE
+P 3750 2650
+F 0 "#PWR08" H 3750 2610 30  0001 C CNN
+F 1 "+3.3V" H 3750 2760 30  0000 C CNN
+F 2 "" H 3750 2650 50  0001 C CNN
+F 3 "" H 3750 2650 50  0001 C CNN
+	1    3750 2650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:GND #PWR04
+U 1 1 4D5EAE9A
+P 2100 3400
+F 0 "#PWR04" H 2100 3400 30  0001 C CNN
+F 1 "GND" H 2100 3330 30  0001 C CNN
+F 2 "" H 2100 3400 50  0001 C CNN
+F 3 "" H 2100 3400 50  0001 C CNN
+	1    2100 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:C C6
+U 1 1 4D5EAE75
+P 2100 3150
+F 0 "C6" H 2150 3250 50  0000 L CNN
+F 1 "100n" H 2150 3050 50  0000 L CNN
+F 2 "Capacitor_SMD:CP_Elec_3x5.4" H 2100 3150 50  0001 C CNN
+F 3 "" H 2100 3150 50  0001 C CNN
+	1    2100 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R9
+U 1 1 4D5EAE68
+P 2400 3150
+F 0 "R9" H 2500 3150 50  0000 C CNN
+F 1 "10k" V 2400 3150 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 2400 3150 50  0001 C CNN
+F 3 "" H 2400 3150 50  0001 C CNN
+	1    2400 3150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:GND #PWR07
+U 1 1 4D5EAE5B
+P 4050 7250
+F 0 "#PWR07" H 4050 7250 30  0001 C CNN
+F 1 "GND" H 4050 7180 30  0001 C CNN
+F 2 "" H 4050 7250 50  0001 C CNN
+F 3 "" H 4050 7250 50  0001 C CNN
+	1    4050 7250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:C C?
+U 1 1 4D5EADED
+P 3850 6750
+AR Path="/4D5EADE6" Ref="C?"  Part="1" 
+AR Path="/4D5EADED" Ref="C8"  Part="1" 
+F 0 "C8" H 3900 6850 50  0000 L CNN
+F 1 "22p" H 3900 6650 50  0000 L CNN
+F 2 "Capacitor_SMD:CP_Elec_3x5.4" H 3850 6750 50  0001 C CNN
+F 3 "" H 3850 6750 50  0001 C CNN
+	1    3850 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:C C7
+U 1 1 4D5EADE6
+P 3500 6750
+F 0 "C7" H 3550 6850 50  0000 L CNN
+F 1 "22p" H 3550 6650 50  0000 L CNN
+F 2 "Capacitor_SMD:CP_Elec_3x5.4" H 3500 6750 50  0001 C CNN
+F 3 "" H 3500 6750 50  0001 C CNN
+	1    3500 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:XTAL X1
+U 1 1 4D5EADA5
+P 3500 6300
+F 0 "X1" H 3675 6450 60  0000 C CNN
+F 1 "XTAL" H 3600 6150 60  0001 C CNN
+F 2 "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm_HandSoldering" H 3500 6300 50  0001 C CNN
+F 3 "" H 3500 6300 50  0001 C CNN
+	1    3500 6300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R13
+U 1 1 4D5E475E
+P 13350 8800
+F 0 "R13" V 13430 8800 50  0000 C CNN
+F 1 "0R" V 13350 8800 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 13350 8800 50  0001 C CNN
+F 3 "" H 13350 8800 50  0001 C CNN
+	1    13350 8800
+	0    1    1    0   
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:R R12
+U 1 1 4D5E464B
+P 13350 8700
+F 0 "R12" V 13250 8700 50  0000 C CNN
+F 1 "0R" V 13350 8700 50  0000 C CNN
+F 2 "Resistor_SMD:R_1210_3225Metric_Pad1.30x2.65mm_HandSolder" H 13350 8700 50  0001 C CNN
+F 3 "" H 13350 8700 50  0001 C CNN
+	1    13350 8700
+	0    1    1    0   
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG03
+U 1 1 4D5E3972
+P 13250 3750
+F 0 "#FLG03" H 13250 4020 30  0001 C CNN
+F 1 "PWR_FLAG" H 13250 3980 30  0000 C CNN
+F 2 "" H 13250 3750 50  0001 C CNN
+F 3 "" H 13250 3750 50  0001 C CNN
+	1    13250 3750
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG02
+U 1 1 4D5E396B
+P 13250 3550
+F 0 "#FLG02" H 13250 3820 30  0001 C CNN
+F 1 "PWR_FLAG" H 13250 3780 30  0000 C CNN
+F 2 "" H 13250 3550 50  0001 C CNN
+F 3 "" H 13250 3550 50  0001 C CNN
+	1    13250 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:+3.3V #PWR024
+U 1 1 4D5E3929
+P 13000 3350
+F 0 "#PWR024" H 13000 3310 30  0001 C CNN
+F 1 "+3.3V" H 13000 3460 30  0000 C CNN
+F 2 "" H 13000 3350 50  0001 C CNN
+F 3 "" H 13000 3350 50  0001 C CNN
+	1    13000 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:GND #PWR025
+U 1 1 4D5E3927
+P 13000 3950
+F 0 "#PWR025" H 13000 3950 30  0001 C CNN
+F 1 "GND" H 13000 3880 30  0001 C CNN
+F 2 "" H 13000 3950 50  0001 C CNN
+F 3 "" H 13000 3950 50  0001 C CNN
+	1    13000 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:CONN_2 P2
+U 1 1 4D5E3904
+P 13600 3650
+F 0 "P2" H 13600 3850 40  0000 C CNN
+F 1 "CONN_2" V 13650 3650 40  0001 C CNN
+F 2 "Connector_PinSocket_2.00mm:PinSocket_1x02_P2.00mm_Vertical_SMD_Pin1Left" H 13600 3650 50  0001 C CNN
+F 3 "" H 13600 3650 50  0001 C CNN
+	1    13600 3650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:+3.3V #PWR022
+U 1 1 4D5E3826
+P 11750 3350
+F 0 "#PWR022" H 11750 3310 30  0001 C CNN
+F 1 "+3.3V" H 11750 3460 30  0000 C CNN
+F 2 "" H 11750 3350 50  0001 C CNN
+F 3 "" H 11750 3350 50  0001 C CNN
+	1    11750 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:GND #PWR?
+U 1 1 4D5E3822
+P 11450 3900
+AR Path="/4D5E381B" Ref="#PWR?"  Part="1" 
+AR Path="/4D5E3822" Ref="#PWR021"  Part="1" 
+F 0 "#PWR021" H 11450 3900 30  0001 C CNN
+F 1 "GND" H 11450 3830 30  0001 C CNN
+F 2 "" H 11450 3900 50  0001 C CNN
+F 3 "" H 11450 3900 50  0001 C CNN
+	1    11450 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:GND #PWR?
+U 1 1 4D5E3820
+P 11050 3900
+AR Path="/4D5E381B" Ref="#PWR?"  Part="1" 
+AR Path="/4D5E3820" Ref="#PWR020"  Part="1" 
+F 0 "#PWR020" H 11050 3900 30  0001 C CNN
+F 1 "GND" H 11050 3830 30  0001 C CNN
+F 2 "" H 11050 3900 50  0001 C CNN
+F 3 "" H 11050 3900 50  0001 C CNN
+	1    11050 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:GND #PWR?
+U 1 1 4D5E381E
+P 10700 3900
+AR Path="/4D5E381B" Ref="#PWR?"  Part="1" 
+AR Path="/4D5E381E" Ref="#PWR019"  Part="1" 
+F 0 "#PWR019" H 10700 3900 30  0001 C CNN
+F 1 "GND" H 10700 3830 30  0001 C CNN
+F 2 "" H 10700 3900 50  0001 C CNN
+F 3 "" H 10700 3900 50  0001 C CNN
+	1    10700 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:GND #PWR018
+U 1 1 4D5E381B
+P 10350 3900
+F 0 "#PWR018" H 10350 3900 30  0001 C CNN
+F 1 "GND" H 10350 3830 30  0001 C CNN
+F 2 "" H 10350 3900 50  0001 C CNN
+F 3 "" H 10350 3900 50  0001 C CNN
+	1    10350 3900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:GND #PWR017
+U 1 1 4D5E37BD
+P 9950 7450
+F 0 "#PWR017" H 9950 7450 30  0001 C CNN
+F 1 "GND" H 9950 7380 30  0001 C CNN
+F 2 "" H 9950 7450 50  0001 C CNN
+F 3 "" H 9950 7450 50  0001 C CNN
+	1    9950 7450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:GND #PWR026
+U 1 1 4D5E379C
+P 13050 8250
+F 0 "#PWR026" H 13050 8250 30  0001 C CNN
+F 1 "GND" H 13050 8180 30  0001 C CNN
+F 2 "" H 13050 8250 50  0001 C CNN
+F 3 "" H 13050 8250 50  0001 C CNN
+	1    13050 8250
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:GND #PWR023
+U 1 1 4D5E375B
+P 11950 9200
+F 0 "#PWR023" H 11950 9200 30  0001 C CNN
+F 1 "GND" H 11950 9130 30  0001 C CNN
+F 2 "" H 11950 9200 50  0001 C CNN
+F 3 "" H 11950 9200 50  0001 C CNN
+	1    11950 9200
+	1    0    0    -1  
+$EndComp
+Text Label 13800 8800 0    60   ~ 0
+TDI
+Text Label 13800 8700 0    60   ~ 0
+TDO
+Text Label 12950 8600 0    60   ~ 0
+TCK
+Text Label 12950 8500 0    60   ~ 0
+TMS
+Text Label 11300 6950 0    60   ~ 0
+TDO
+Text Label 11300 6850 0    60   ~ 0
+TCK
+Text Label 11300 6750 0    60   ~ 0
+TMS
+Text Label 11300 6650 0    60   ~ 0
+TDI
+NoConn ~ 12750 9000
+NoConn ~ 12750 8900
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:C C5
+U 1 1 4D5E3587
+P 13050 8050
+F 0 "C5" H 13100 8150 50  0000 L CNN
+F 1 "100n" H 13100 7950 50  0000 L CNN
+F 2 "Capacitor_SMD:CP_Elec_3x5.4" H 13050 8050 50  0001 C CNN
+F 3 "" H 13050 8050 50  0001 C CNN
+	1    13050 8050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:CP1 C4
+U 1 1 4D5E3572
+P 11450 3700
+F 0 "C4" H 11500 3800 50  0000 L CNN
+F 1 "10uF" H 11500 3600 50  0000 L CNN
+F 2 "Capacitor_SMD:CP_Elec_3x5.4" H 11450 3700 50  0001 C CNN
+F 3 "" H 11450 3700 50  0001 C CNN
+	1    11450 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:C C?
+U 1 1 4D5E355C
+P 11050 3700
+AR Path="/4D5E354A" Ref="C?"  Part="1" 
+AR Path="/4D5E355C" Ref="C3"  Part="1" 
+F 0 "C3" H 11100 3800 50  0000 L CNN
+F 1 "100n" H 11100 3600 50  0000 L CNN
+F 2 "Capacitor_SMD:CP_Elec_3x5.4" H 11050 3700 50  0001 C CNN
+F 3 "" H 11050 3700 50  0001 C CNN
+	1    11050 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:C C?
+U 1 1 4D5E354F
+P 10700 3700
+AR Path="/4D5E354A" Ref="C?"  Part="1" 
+AR Path="/4D5E354F" Ref="C2"  Part="1" 
+F 0 "C2" H 10750 3800 50  0000 L CNN
+F 1 "100n" H 10750 3600 50  0000 L CNN
+F 2 "Capacitor_SMD:CP_Elec_3x5.4" H 10700 3700 50  0001 C CNN
+F 3 "" H 10700 3700 50  0001 C CNN
+	1    10700 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:C C1
+U 1 1 4D5E354A
+P 10350 3700
+F 0 "C1" H 10400 3800 50  0000 L CNN
+F 1 "100n" H 10400 3600 50  0000 L CNN
+F 2 "Capacitor_SMD:CP_Elec_3x5.4" H 10350 3700 50  0001 C CNN
+F 3 "" H 10350 3700 50  0001 C CNN
+	1    10350 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Xilinx_XC9536XL_EVB-rescue:CONN_7X2 P1
+U 1 1 4D5E3513
+P 12350 8700
+F 0 "P1" H 12350 9100 60  0000 C CNN
+F 1 "CONN_7X2" V 12350 8700 60  0001 C CNN
+F 2 "Connector_Samtec_HLE_SMD:Samtec_HLE-107-02-xxx-DV-A_2x07_P2.54mm_Horizontal" H 12350 8700 50  0001 C CNN
+F 3 "" H 12350 8700 50  0001 C CNN
+	1    12350 8700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7200 9700 7200 9800
+Wire Wire Line
+	7200 9600 7200 9700
+Wire Wire Line
+	7200 9500 7200 9600
+Wire Wire Line
+	7200 9400 7200 9500
+Wire Wire Line
+	7200 9300 7200 9400
+Wire Wire Line
+	7200 9200 7200 9300
+Wire Wire Line
+	7200 9100 7200 9200
+Wire Wire Line
+	6050 9600 5200 9600
+Wire Wire Line
+	5850 9400 6350 9400
+Wire Wire Line
+	5650 9200 6350 9200
+Wire Wire Line
+	5450 9000 6350 9000
+Wire Wire Line
+	9550 9600 9550 9500
+Wire Wire Line
+	9550 9500 9550 9400
+Wire Wire Line
+	9550 9400 9550 9300
+Wire Wire Line
+	9550 9300 9550 9200
+Wire Wire Line
+	7250 6000 7250 6150
+Wire Wire Line
+	7100 4350 8000 4350
+Wire Wire Line
+	3850 6300 3850 6050
+Wire Wire Line
+	11050 3500 11450 3500
+Wire Wire Line
+	10350 3500 10700 3500
+Wire Wire Line
+	11950 9000 11950 8900
+Wire Wire Line
+	11950 8900 11950 8800
+Wire Wire Line
+	11950 8800 11950 8700
+Wire Wire Line
+	11950 8700 11950 8600
+Wire Wire Line
+	11950 8600 11950 8500
+Wire Wire Line
+	11950 8500 11950 8400
+Wire Wire Line
+	12750 7850 12750 7550
+Wire Wire Line
+	9950 7350 10050 7350
+Wire Wire Line
+	10700 3500 11050 3500
+Wire Wire Line
+	11450 3500 11750 3500
+Wire Wire Line
+	10000 4150 10100 4150
+Wire Wire Line
+	3500 6300 3500 6550
+Wire Wire Line
+	2400 2900 3250 2900
+Wire Wire Line
+	2400 3700 2000 3700
+Wire Wire Line
+	7150 4250 8100 4250
+Wire Wire Line
+	7050 4450 7900 4450
+Wire Wire Line
+	9550 9100 9550 9000
+Wire Wire Line
+	9550 9200 9550 9100
+Wire Wire Line
+	5550 9100 6350 9100
+Wire Wire Line
+	5750 9300 6350 9300
+Wire Wire Line
+	5950 9500 5200 9500
+Wire Wire Line
+	6150 9700 5200 9700
+Wire Wire Line
+	8250 4000 8400 4000
+$Comp
+L power:GND #PWR0101
+U 1 1 60953B8D
+P 4950 2950
+F 0 "#PWR0101" H 4950 2700 50  0001 C CNN
+F 1 "GND" H 4955 2777 50  0000 C CNN
+F 2 "" H 4950 2950 50  0001 C CNN
+F 3 "" H 4950 2950 50  0001 C CNN
+	1    4950 2950
+	-1   0    0    1   
+$EndComp
+Text Label 6600 7550 0    50   ~ 0
+SCK
+$Comp
+L MCU_Microchip_ATtiny:ATtiny2313-20PU U2
+U 1 1 60A7007F
+P 4950 4050
+F 0 "U2" H 4950 2769 50  0000 C CNN
+F 1 "ATtiny2313-20PU" H 4950 2860 50  0000 C CNN
+F 2 "Package_DIP:DIP-20_W7.62mm" H 4950 4050 50  0001 C CIN
+F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2543-AVR-ATtiny2313_Datasheet.pdf" H 4950 4050 50  0001 C CNN
+	1    4950 4050
+	1    0    0    1   
+$EndComp
+Wire Wire Line
+	3250 5750 4950 5750
+Wire Wire Line
+	4950 5750 4950 5150
+Wire Wire Line
+	3250 2900 3250 5750
+Connection ~ 3850 7000
+Wire Wire Line
+	3850 7000 3850 6950
+Wire Wire Line
+	3500 7050 3850 7050
+Wire Wire Line
+	3600 6050 3600 4450
+Wire Wire Line
+	3600 4450 4350 4450
+Wire Wire Line
+	3750 6050 3750 4650
+Wire Wire Line
+	3750 4650 4350 4650
+Wire Wire Line
+	4350 4850 3350 4850
+Wire Wire Line
+	3350 4850 3350 3700
+Wire Wire Line
+	2400 3700 3350 3700
+Wire Wire Line
+	6600 3950 6600 2000
+Wire Wire Line
+	6600 2000 3800 2000
+Wire Wire Line
+	5550 3950 6600 3950
+Wire Wire Line
+	3800 2000 3800 3850
+Wire Wire Line
+	3800 3850 1950 3850
+Wire Wire Line
+	1900 3950 3900 3950
+Wire Wire Line
+	3900 3950 3900 2100
+Wire Wire Line
+	3900 2100 6500 2100
+Wire Wire Line
+	6500 2100 6500 3850
+Wire Wire Line
+	6500 3850 5550 3850
+Wire Wire Line
+	3950 4050 3950 2200
+Wire Wire Line
+	3950 2200 6450 2200
+Wire Wire Line
+	6450 2200 6450 3750
+Wire Wire Line
+	6450 3750 5550 3750
+Wire Wire Line
+	1800 4050 3950 4050
+Wire Wire Line
+	4000 4150 4000 2250
+Wire Wire Line
+	4000 2250 6400 2250
+Wire Wire Line
+	6400 2250 6400 3650
+Wire Wire Line
+	6400 3650 5550 3650
+Wire Wire Line
+	1800 4150 4000 4150
+Wire Wire Line
+	4050 4250 4050 2300
+Wire Wire Line
+	4050 2300 6350 2300
+Wire Wire Line
+	6350 2300 6350 3550
+Wire Wire Line
+	6350 3550 5550 3550
+Wire Wire Line
+	1800 4250 4050 4250
+Wire Wire Line
+	4150 4350 4150 2350
+Wire Wire Line
+	6300 2350 6300 3450
+Wire Wire Line
+	6300 3450 5550 3450
+Wire Wire Line
+	1800 4350 4150 4350
+Wire Wire Line
+	3500 4450 3500 4400
+Wire Wire Line
+	3500 4400 4300 4400
+Wire Wire Line
+	2200 4450 3500 4450
+Wire Wire Line
+	4150 2350 6300 2350
+Wire Wire Line
+	4300 4400 4300 2400
+Wire Wire Line
+	4300 2400 6200 2400
+Wire Wire Line
+	6200 2400 6200 3350
+Wire Wire Line
+	6200 3350 5550 3350
+Wire Wire Line
+	6550 4350 6550 4250
+Wire Wire Line
+	6550 4250 5550 4250
+Wire Wire Line
+	6500 4450 6500 4350
+Wire Wire Line
+	6500 4350 5550 4350
+Wire Wire Line
+	6500 4450 7050 4450
+Wire Wire Line
+	6450 4550 6450 4450
+Wire Wire Line
+	6450 4450 5550 4450
+Wire Wire Line
+	6450 4550 7000 4550
+Wire Wire Line
+	6400 4650 6400 4550
+Wire Wire Line
+	6400 4550 5550 4550
+Wire Wire Line
+	6400 4650 6950 4650
+Wire Wire Line
+	6350 4750 6350 4650
+Wire Wire Line
+	6350 4650 5550 4650
+Wire Wire Line
+	6350 4750 6900 4750
+Wire Wire Line
+	6300 4850 6300 4750
+Wire Wire Line
+	6300 4750 5550 4750
+Wire Wire Line
+	6300 4850 6850 4850
+Wire Wire Line
+	6250 4950 6250 4850
+Wire Wire Line
+	6250 4850 5550 4850
+Wire Wire Line
+	6250 4950 6800 4950
+Connection ~ 7150 4250
+Wire Wire Line
+	5550 4150 6600 4150
+Wire Wire Line
+	6600 4150 6600 4250
+Wire Wire Line
+	6600 4250 7150 4250
+Text Notes 7450 3250 0    50   ~ 0
+SCK- PIN 5 IS FOR CLK OSC
+$EndSCHEMATC
