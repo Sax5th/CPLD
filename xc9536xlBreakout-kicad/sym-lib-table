@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name xc9536xl-vq44)(type Legacy)(uri ${KIPRJMOD}/xc9536xl-vq44.lib)(options "")(descr ""))
+  (lib (name CB3LV-3I-50M0000)(type Legacy)(uri /home/saxfield/Downloads/CB3LV-3I-50M0000/CB3LV-3I-50M0000.lib)(options "")(descr ""))
+  (lib (name XC9536XL-rescue)(type Legacy)(uri ${KIPRJMOD}/XC9536XL-rescue.lib)(options "")(descr ""))
+)
