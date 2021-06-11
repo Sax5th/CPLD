@@ -68,17 +68,6 @@ F 3 "~" H 7100 1900 50  0001 C CNN
 	1    7100 1900
 	1    0    0    -1  
 $EndComp
-$Comp
-L xc9536xl-vq44:XC9536XL-VQ44 U1
-U 1 1 5DB36FFD
-P 6500 3500
-F 0 "U1" H 5900 4600 50  0000 C CNN
-F 1 "XC9536XL-VQ44" H 6500 2600 50  0000 C CNN
-F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 6500 3500 50  0001 C CNN
-F 3 "" H 6500 3500 50  0001 C CNN
-	1    6500 3500
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	5100 2600 5700 2600
 Wire Wire Line
@@ -87,10 +76,6 @@ Wire Wire Line
 	5100 2900 5700 2900
 Wire Wire Line
 	5100 3000 5700 3000
-Wire Wire Line
-	5100 3100 5700 3100
-Wire Wire Line
-	5100 3200 5700 3200
 Wire Wire Line
 	5100 3300 5700 3300
 Wire Wire Line
@@ -266,13 +251,7 @@ Wire Wire Line
 Wire Wire Line
 	7850 2500 7900 2500
 Wire Wire Line
-	6400 5050 6400 5200
-Wire Wire Line
 	6400 5200 6500 5200
-Wire Wire Line
-	6600 5200 6600 5050
-Wire Wire Line
-	6500 5050 6500 5200
 Connection ~ 6500 5200
 Wire Wire Line
 	6500 5200 6600 5200
@@ -429,10 +408,10 @@ Text Label 5300 2900 0    50   ~ 0
 P1-4
 Text Label 5300 3000 0    50   ~ 0
 P1-5
-Text Label 5300 3100 0    50   ~ 0
-P1-6
-Text Label 5300 3200 0    50   ~ 0
+Text Label 5100 3100 0    50   ~ 0
 P1-7
+Text Label 5100 3200 0    50   ~ 0
+P1-6
 Text Label 5300 3300 0    50   ~ 0
 P1-8
 Text Label 5300 3400 0    50   ~ 0
@@ -975,4 +954,27 @@ Text Notes 3100 4100 0    50   ~ 0
 User IO & LED
 Wire Wire Line
 	2600 5650 2400 5650
+Wire Wire Line
+	6600 5200 6600 5050
+Wire Wire Line
+	6500 5050 6500 5200
+Wire Wire Line
+	6400 5050 6400 5200
+$Comp
+L xc9536xl-vq44:XC9536XL-VQ44 U1
+U 1 1 5DB36FFD
+P 6500 3500
+F 0 "U1" H 5900 4600 50  0000 C CNN
+F 1 "XC9536XL-VQ44" H 6500 2600 50  0000 C CNN
+F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 6500 3500 50  0001 C CNN
+F 3 "" H 6500 3500 50  0001 C CNN
+	1    6500 3500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5650 3100 5700 3100
+Text Label 5700 3200 2    50   ~ 0
+P1-7
+Text Label 5650 3100 2    50   ~ 0
+P1-6
 $EndSCHEMATC
